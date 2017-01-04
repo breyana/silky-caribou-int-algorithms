@@ -1,6 +1,6 @@
 var reducer = function(a, b) {
   return a + b;
-  };
+};
 
 function sumAll(arr) {
   var maxNumber = Math.max.apply(null, arr);
